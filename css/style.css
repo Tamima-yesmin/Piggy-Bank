@@ -1,0 +1,16 @@
+
+
+
+
+.title{
+    color:#d67397;
+}
+
+/* notification style */
+.notify{
+
+    color:#cf5381 ;
+    margin-top: 30px;
+    
+    display: none;
+}
